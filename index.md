@@ -7,7 +7,9 @@
 
 I developed a rule-based natural language processing tool using MedSpacy which can extract the diagnosis and reason for consult from a free-text palliative care consult question. 
 
-The code can be used within Jupyter Notebooks, but for ease of deployment and transportability I turned it into a dockerized FastAPI. 
+This tool is planned for use as part of our department's push to integrate with the Palliative Care Quality Collaborative, a nation wide database of palliative care programs used for benchmarking and QA/QI initiatives.
+
+The code can be used within Jupyter Notebooks, but for ease of deployment and transportability I also turned it into a dockerized FastAPI and deployed the API to a DigitalOcean Droplet.
 
 <img src="images/api.png?raw=true"/>
 
