@@ -5,7 +5,7 @@
 ### NLP API for extraction of structured data from freetext palliative care consult questions
 
 
-I developed a rule-based natural language processing tool using MedSpacy which can extract the diagnosis and reason for consult from a free-text palliative care consult question. 
+I developed a rule-based natural language processing tool using MedSpacy which can extract the diagnosis and reason for consult from free-text palliative care consult questions. 
 
 This tool is planned for use as part of our department's push to integrate with the Palliative Care Quality Collaborative, a nation wide database of palliative care programs used for benchmarking and QA/QI initiatives.
 
