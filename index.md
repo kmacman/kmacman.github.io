@@ -1,8 +1,9 @@
-## Portfolio
+## Informatics and Data Science Projects
 
 ---
 
-### Category Name 1 
+### NLP API for extraction of main palliative diagnosis and consult reason from freetext consult questions.
+ <img alt="Static Badge" src="https://img.shields.io/badge/spaCy-white?style=for-the-badge&logo=spaCy">
 
 [Project 1 Title](/sample_page2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
