@@ -3,32 +3,20 @@
 ---
 
 ### NLP API for extraction of main palliative diagnosis and consult reason from freetext consult questions.
-<img alt="Static Badge" src="https://img.shields.io/badge/spaCy-grey?logo=spaCy"><img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-grey?logo=fastAPI">
-
-[Project 1 Title](/sample_page2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
+I developed a rule-based natural language processing tool using MedSpacy which can extract the diagnosis and reason for consult from a free-text palliative care consult question. 
+
+The code can be used within Jupyter Notebooks, but for ease of deployment and transportability I turned it into a dockerized FastAPI. 
+
+<img src="images/api.png?raw=true"/>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-grey?logo=Python"> <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-grey?logo=Pandas">
+ <img alt="Static Badge" src="https://img.shields.io/badge/spaCy-grey?logo=spaCy"> <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-grey?logo=fastAPI"> <img alt="Static Badge" src="https://img.shields.io/badge/Docker-grey?logo=Docker"> <img alt="Static Badge" src="https://img.shields.io/badge/DigitalOcean-grey?logo=DigitalOcean">
+
+ [View code on GitHub](https://github.com/kmacman/Palliative-Consult-NLP)
+
+ [View API Docs](http://palliapi.kentmccannmd.com/docs#/default/analyze_text_analyze_post)
 
 
 ---
