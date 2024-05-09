@@ -2,7 +2,7 @@
 
 ---
 
-### NLP API for extraction of main palliative diagnosis and consult reason from freetext consult questions.
+### NLP API for extraction of structured data from freetext palliative care consult questions
 
 
 I developed a rule-based natural language processing tool using MedSpacy which can extract the diagnosis and reason for consult from a free-text palliative care consult question. 
