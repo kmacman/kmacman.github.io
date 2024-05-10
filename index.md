@@ -22,6 +22,9 @@ The code can be used within Jupyter Notebooks, but for ease of deployment and tr
 
  [View API Docs](http://palliapi.kentmccannmd.com/docs#/default/analyze_text_analyze_post)
 
+---
+Testing...
+<iframe src="images\timeseries.html" width="100%" height="600" frameborder="0" style="border: none; display: block; margin: auto;"></iframe>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
