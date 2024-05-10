@@ -25,7 +25,7 @@ The code can be used within Jupyter Notebooks, but for ease of deployment and tr
 ---
 ### Sentiment Analysis of Student Doctor Network Specialty Forums from Inception through 2023
 
-To see how sentiment of various specialties has changed over time, I scraped every forum post from the Student Doctor Network subspecialty boards using BeautifulSoup. I then analyzed the sentiment of each post using a HuggingFace Transformer.
+To see how sentiment of various specialties has changed over time, I scraped forum posts from the Student Doctor Network subspecialty boards using BeautifulSoup. I then analyzed the sentiment of each post using a HuggingFace Transformer.
 
 Here are the results for each specialty, averaged by year, rendered using D3Blocks:
 
