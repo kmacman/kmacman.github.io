@@ -38,5 +38,22 @@ Here are the results for each specialty, averaged by year, rendered using D3Bloc
 (SDN has since changed to dynamically loaded content, so this scraping script no longer works)
 
 ---
+### Department QA/QI Dashboard
+
+I created a Streamlit dashboard to explore departmental consultation data for our inpatient palliative care service.
+
+The ETL process is automated, so newly generated EHR reports can easily be added to the existing data.
+
+The NLP program above is utilized to enrich the data to allow for more granular analysis of patient diseases and reasons for consults.
+
+The data is filterable by all columns and all visualizations automatically update to reflect filtering.
+
+<img src="images\dashboard.png"/>
+
+_Examples of the visualizations within the dashboard, values have been edited out_
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-grey?logo=Python"> <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-grey?logo=Pandas"> <img alt="Static Badge" src="https://img.shields.io/badge/Streamlit-grey?logo=Streamlit"> <img alt="Static Badge" src="https://img.shields.io/badge/Plotly-grey?logo=Plotly">  
+
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
