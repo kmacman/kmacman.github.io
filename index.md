@@ -18,7 +18,7 @@ The code can be used within Jupyter Notebooks, but for ease of deployment and tr
 
  [View code on GitHub](https://github.com/kmacman/Palliative-Consult-NLP)
 
- [View Jupyter Notebook displaying functionality](https://github.com/kmacman/Palliative-Consult-NLP/blob/master/notebook.ipynb)
+ [Try API in Google Colab](https://colab.research.google.com/drive/16JjCPyPETtcCCg1V32wj3jnYWnqQTs-V?usp=sharing)
 
  [View API Docs](http://palliapi.kentmccannmd.com/docs#/default/analyze_text_analyze_post)
 
