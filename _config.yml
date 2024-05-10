@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/kent-mccann-md-a0342b58/">View My LinkedIn Profile</a> 
   <br><br>
-  Email: KentMcCannMD@Gmail.Com
+  KentMcCannMD@Gmail.com
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
