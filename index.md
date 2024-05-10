@@ -29,11 +29,11 @@ To see how sentiment of various specialties has changed over time, I scraped eve
 
 Here are the results for each specialty, averaged by year, rendered using D3Blocks:
 
-<iframe src="images\timeseries.html" width="100%" height="470" frameborder="0" style="border: none; display: block; margin: auto;"></iframe>
-
-[Jupyter Notebook of Scraping Script](pdf\Scraping_Script.html) (SDN has since changed to dynamically loaded content, so this scraping script no longer works)
+<iframe src="images\timeseries.html" width="100%" height="100%" frameborder="0" style="border: none; display: block; margin: auto;"></iframe>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-grey?logo=Python"> <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-grey?logo=Pandas"> <img alt="Static Badge" src="https://img.shields.io/badge/HuggingFace-grey"> <img alt="Static Badge" src="https://img.shields.io/badge/BeautifulSoup-grey"> <img alt="Static Badge" src="https://img.shields.io/badge/D3Blocks-grey?logo=d3.js"> 
+
+[Jupyter Notebook of Scraping Script](pdf\Scraping_Script.html) (SDN has since changed to dynamically loaded content, so this scraping script no longer works)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
