@@ -27,7 +27,7 @@ The code can be used within Jupyter Notebooks, but for ease of deployment and tr
 
 To see how sentiment of various specialties has changed over time, I scraped forum posts from the Student Doctor Network subspecialty boards using BeautifulSoup. I then analyzed the sentiment of each post using a HuggingFace Transformer.
 
-Here are the results for each specialty, averaged by year, rendered using D3Blocks:
+Here are the results for each specialty, averaged by year, rendered using D3Blocks (click the specialties to see their graphs):
 
 <iframe src="images\timeseries.html" width="100%" height="520" frameborder="0" style="border: none; display: block; margin: auto;"></iframe>
 
