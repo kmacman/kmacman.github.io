@@ -23,8 +23,17 @@ The code can be used within Jupyter Notebooks, but for ease of deployment and tr
  [View API Docs](http://palliapi.kentmccannmd.com/docs#/default/analyze_text_analyze_post)
 
 ---
-Testing... 2
+### Sentiment Analysis of Student Doctor Network Specialty Forums from Inception through 2023
+
+To see how sentiment of various specialties has changed over time, I scraped every forum post from the Student Doctor Network subspecialty boards using BeautifulSoup. I then analyzed the sentiment of each post using a HuggingFace Transformer.
+
+Here are the results for each specialty, averaged by year, rendered using D3Blocks:
+
 <iframe src="images\timeseries.html" width="100%" height="470" frameborder="0" style="border: none; display: block; margin: auto;"></iframe>
+
+[Jupyter Notebook of Scraping Script](pdf\Scraping_Script.html) (SDN has since changed to dynamically loaded content, so this scraping script no longer works)
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-grey?logo=Python"> <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-grey?logo=Pandas"> <img alt="Static Badge" src="https://img.shields.io/badge/HuggingFace-grey"> <img alt="Static Badge" src="https://img.shields.io/badge/BeautifulSoup-grey"> <img alt="Static Badge" src="https://img.shields.io/badge/D3Blocks-grey?logo=d3.js"> 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
