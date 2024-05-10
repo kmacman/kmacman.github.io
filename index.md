@@ -33,7 +33,9 @@ Here are the results for each specialty, averaged by year, rendered using D3Bloc
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-grey?logo=Python"> <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-grey?logo=Pandas"> <img alt="Static Badge" src="https://img.shields.io/badge/HuggingFace-grey"> <img alt="Static Badge" src="https://img.shields.io/badge/BeautifulSoup-grey"> <img alt="Static Badge" src="https://img.shields.io/badge/D3Blocks-grey?logo=d3.js"> 
 
-[Jupyter Notebook of Scraping Script](pdf\Scraping_Script.html) (SDN has since changed to dynamically loaded content, so this scraping script no longer works)
+[Jupyter Notebook of Scraping/Sentiment Analysis Script](pdf\Scraping_Script.html) 
+
+(SDN has since changed to dynamically loaded content, so this scraping script no longer works)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
