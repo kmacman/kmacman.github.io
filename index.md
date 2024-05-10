@@ -30,6 +30,7 @@ To see how sentiment of various specialties has changed over time, I scraped eve
 Here are the results for each specialty, averaged by year, rendered using D3Blocks:
 
 <iframe src="images\timeseries.html" width="100%" height="510" frameborder="0" style="border: none; display: block; margin: auto;"></iframe>
+
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-grey?logo=Python"> <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-grey?logo=Pandas"> <img alt="Static Badge" src="https://img.shields.io/badge/HuggingFace-grey"> <img alt="Static Badge" src="https://img.shields.io/badge/BeautifulSoup-grey"> <img alt="Static Badge" src="https://img.shields.io/badge/D3Blocks-grey?logo=d3.js"> 
 
 [Jupyter Notebook of Scraping/Sentiment Analysis Script](pdf\Scraping_Script.html) 
