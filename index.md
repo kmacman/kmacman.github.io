@@ -34,7 +34,9 @@ This is an ongoing project, with plans to include more robust external data, suc
 <img src="images\time_series.png"/> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-grey?logo=Python"> <img alt="Static Badge" src="https://img.shields.io/badge/scikit learn-grey?logo=scikitlearn"> <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-grey?logo=PAndas"> <img alt="Static Badge" src="https://img.shields.io/badge/XGBoost-grey?logo=">
 
- [PDF of Jupyter Notebook](pdf\davis_xgb.pdf)
+ [PDF of Model Development Notebook](pdf\davis_xgb.pdf)
+ [PDF of EDA Notebook](pdf\davis_eda.pdf)
+ 
 
 ---
 ### Sentiment Analysis of Student Doctor Network Specialty Forums from Inception through 2023
