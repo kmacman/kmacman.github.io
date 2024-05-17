@@ -17,9 +17,7 @@ The code can be used within Jupyter Notebooks, but for ease of deployment and tr
  <img alt="Static Badge" src="https://img.shields.io/badge/spaCy-grey?logo=spaCy"> <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-grey?logo=fastAPI"> <img alt="Static Badge" src="https://img.shields.io/badge/Docker-grey?logo=Docker"> <img alt="Static Badge" src="https://img.shields.io/badge/DigitalOcean-grey?logo=DigitalOcean">
 
  [View code on GitHub](https://github.com/kmacman/Palliative-Consult-NLP)
-
  [Try API in Google Colab](https://colab.research.google.com/drive/16JjCPyPETtcCCg1V32wj3jnYWnqQTs-V?usp=sharing)
-
  [View API Docs](http://palliapi.kentmccannmd.com/docs#/default/analyze_text_analyze_post)
 
 ---
@@ -31,21 +29,16 @@ I engineered time series features (lags, rolling averages) to maximize the xgb m
 
 This is an ongoing project, with plans to include more robust external data, such as holidays, local major events, air quality, and internet search data.
 
-<img src="images\time_series.png"/> 
-
+<img src="images\time_series.png"/> <br>
 _XGB model results, smoothed for readability_
 
-<img src="images\transformer.png"/>
-
-_Transformer results_
-
+<img src="images\transformer.png"/><br>
+_Transformer results_<br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-grey?logo=Python"> <img alt="Static Badge" src="https://img.shields.io/badge/scikit learn-grey?logo=scikitlearn"> <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-grey?logo=PAndas"> <img alt="Static Badge" src="https://img.shields.io/badge/pyTorch-grey?logo=pytorch"> <img alt="Static Badge" src="https://img.shields.io/badge/XGBoost-grey?logo=">
 
 
- [PDF of Model Development Notebook](pdf\davis_xgb.pdf)
- 
- [PDF of EDA Notebook](pdf\davis_eda.pdf)
-
+ [PDF of Model Development Notebook](pdf\davis_xgb.pdf)<br>
+ [PDF of EDA Notebook](pdf\davis_eda.pdf)<br>
  [GitHub Repo of Transformer Model](https://github.com/kmacman/er_visits_transformer/blob/main/notebook.ipynb)
  
 
