@@ -33,7 +33,7 @@ This is an ongoing project, with plans to include more robust external data, suc
 
 <img src="images\time_series.png"/> 
 
-_XGB model results_
+_XGB model results, smoothed for readability_
 
 <img src="images\transformer.png"/>
 
